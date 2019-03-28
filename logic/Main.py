@@ -1,3 +1,3 @@
-from logic import Class1, Class2, Class3, Class4, Class5, Class6, Class7
+from logic import Class1, Class2, Class3, Class4, Class5, Class6, Class7, Class8
 
-Class7.main()
+Class8.main()

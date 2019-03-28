@@ -46,5 +46,7 @@ def clave(password):
         print("Contraseña creada con exito")
         return True
 
-string = str(input("Introduce contraseña"))
-clave(string)
+
+def main():
+    string = str(input("Introduce contraseña"))
+    clave(string)
